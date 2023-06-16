@@ -1,1 +1,1 @@
-# AngularSplitwiseApp
+# AngularSplitwise
